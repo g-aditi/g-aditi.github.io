@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Can LLMs Plan?
+description: Evaluating LLMs' ability to translate natural language to PDDL using semantic validation
+img: assets/img/projects/llm-to-pddl.png
+importance: 1
 category: work
-giscus_comments: true
+related_publications: false
+repo: "https://github.com/g-aditi/can-llms-translate-into-pddl" 
+tags: ["LLM", "PDDL", "planning", "semantic validation", "AI safety", "code translation"]
+redirect: "https://github.com/g-aditi/can-llms-translate-into-pddl"
 ---
 
 Every project has a beautiful feature showcase page.

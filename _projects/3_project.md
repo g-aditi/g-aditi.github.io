@@ -1,11 +1,15 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Description Logics for T2I Evaluation
+description: Using formal logic to systematically benchmark Stable Diffusion's compositional understanding
+img: assets/img/projects/dl-t2i.png
+importance: 1
 category: work
+related_publications: false
+repo: "https://github.com/g-aditi/dl_t2i"
+paper: "https://github.com/g-aditi/dl_t2i/blob/main/DL-T2I_Report.pdf"
+redirect: "https://github.com/g-aditi/dl_t2i"
+tags: ["description logics", "text-to-image", "Stable Diffusion", "model evaluation", "compositional reasoning", "AI bias"]
 ---
 
 Every project has a beautiful feature showcase page.
